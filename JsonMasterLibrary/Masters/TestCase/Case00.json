@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Hero",
+  "hp": 100,
+  "ratio": 1.5,
+  "levels": [
+    1,
+    2,
+    3
+  ],
+  "weaponId": 10
+}

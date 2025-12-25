@@ -1,0 +1,9 @@
+{
+  "id": "uint32",
+  "name": "string",
+  "hp": "int",
+  "ratio": "float",
+  "nickname": "optional<string>",
+  "levels": "array<int>",
+  "weaponId": "uint32"
+}
