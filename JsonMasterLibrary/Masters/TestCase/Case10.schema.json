@@ -1,0 +1,6 @@
+{
+  "params": {
+    "hp": "int",
+    "atk": "int"
+  }
+}
